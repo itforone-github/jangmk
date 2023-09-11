@@ -1,0 +1,62 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.2"
+
+    defaultConfig {
+        applicationId "kr.co.itforone.jangmk"
+        minSdkVersion 21
+        targetSdkVersion 30
+        versionCode 8
+        versionName "1.7"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    dataBinding {
+        enabled = true
+    }
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.0.0'
+
+    // TedPermission
+    implementation 'gun0912.ted:tedpermission:x.y.z'
+    implementation 'gun0912.ted:tedpermission:2.0.0'
+
+    implementation platform('com.google.firebase:firebase-bom:26.6.0')
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-messaging:20.0.0'
+
+    // Glide
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    // annotationProcessor : annotation processor classpath 에서 compile processor classpath를 분리하여 빌드 성능개선
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+
+    implementation 'mc.kr.cross.sdk:sdk:0.1.1'
+
+}

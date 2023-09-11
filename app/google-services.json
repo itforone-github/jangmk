@@ -1,0 +1,195 @@
+{
+  "project_info": {
+    "project_number": "640202496325",
+    "firebase_url": "https://fcmdreamforone.firebaseio.com",
+    "project_id": "fcmdreamforone",
+    "storage_bucket": "fcmdreamforone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640202496325:android:a2aa2695d11a94b550462c",
+        "android_client_info": {
+          "package_name": "co.kr.itforone.jngk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640202496325-26gs54kr4nuhipirt2s5ileci8o9qhcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.kr.itforone.jngk",
+            "certificate_hash": "b7de4dd8a2f7ce05764f99df100a3658a03c09d5"
+          }
+        },
+        {
+          "client_id": "640202496325-i8qav1mips0f2mh9t9gfmkj8pjcgoc63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.kr.itforone.jngk",
+            "certificate_hash": "2e3f2b8b41bbd129964de580d318006b86889bd6"
+          }
+        },
+        {
+          "client_id": "640202496325-kpqcvjqgjvc67q09usl5lt3r1h4mbri9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQv9XnxOlnhl7m4EwmE9OnOdok-B92tso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640202496325-kpqcvjqgjvc67q09usl5lt3r1h4mbri9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640202496325-5kquorh15tf07d4i8q9d9obemf57toto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.kr.itforone.jngk2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640202496325:android:d17ba13bb151536c50462c",
+        "android_client_info": {
+          "package_name": "com.dreamforone.starmotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640202496325-78pojg82d0e56v41ugrp21e7l77mddhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamforone.starmotos",
+            "certificate_hash": "955b9fb6b0d511bd0fa22b90591d06e2b483f21c"
+          }
+        },
+        {
+          "client_id": "640202496325-kpqcvjqgjvc67q09usl5lt3r1h4mbri9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQv9XnxOlnhl7m4EwmE9OnOdok-B92tso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640202496325-kpqcvjqgjvc67q09usl5lt3r1h4mbri9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640202496325-5kquorh15tf07d4i8q9d9obemf57toto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.kr.itforone.jngk2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640202496325:android:2993a9e43210158e50462c",
+        "android_client_info": {
+          "package_name": "kr.co.itforone.happy100"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640202496325-nrkk0sgk34cj8nnuuisiikj6tsd1imc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.itforone.happy100",
+            "certificate_hash": "1d1580ba6caa7ee40a4a48fd515702dd0849d814"
+          }
+        },
+        {
+          "client_id": "640202496325-kpqcvjqgjvc67q09usl5lt3r1h4mbri9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQv9XnxOlnhl7m4EwmE9OnOdok-B92tso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640202496325-kpqcvjqgjvc67q09usl5lt3r1h4mbri9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640202496325-5kquorh15tf07d4i8q9d9obemf57toto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.kr.itforone.jngk2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640202496325:android:3c2fbe1c2859a4f450462c",
+        "android_client_info": {
+          "package_name": "kr.co.itforone.jangmk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640202496325-04b44kn2a0303aki698elb10q6rqmc0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.itforone.jangmk",
+            "certificate_hash": "966afaf1bcdf7b2bb7010d80e90d4e6c28357cbc"
+          }
+        },
+        {
+          "client_id": "640202496325-kpqcvjqgjvc67q09usl5lt3r1h4mbri9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQv9XnxOlnhl7m4EwmE9OnOdok-B92tso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640202496325-kpqcvjqgjvc67q09usl5lt3r1h4mbri9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640202496325-5kquorh15tf07d4i8q9d9obemf57toto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.kr.itforone.jngk2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

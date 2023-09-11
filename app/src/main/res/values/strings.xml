@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">장날</string>
+    <string name="login">http://itforone.co.kr/~jangmk/bbs/login.php</string>
+    <string name="domain">http://itforone.co.kr/~jangmk</string>
+    <string name="index">http://itforone.co.kr/~jangmk/index.php</string>
+    <string name="loginchk">http://itforone.co.kr/~jangmk/bbs/login_check.php</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="default_notification_channel_id">jangmk</string>
+</resources>
+
